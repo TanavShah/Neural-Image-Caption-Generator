@@ -1,0 +1,2 @@
+Real Caption :  <start>people are walking next to each other in the rain <end>
+Predicted Caption :  asian girl and their face stands under an umbrella <end>

@@ -1,0 +1,2 @@
+Real Caption :  <start>a kite flies high in the blue sky above several people on a beach <end>
+Predicted Caption :  people that are flying a kite with kites on the beach <end>

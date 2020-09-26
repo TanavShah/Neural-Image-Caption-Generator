@@ -1,0 +1,2 @@
+Real Caption :  <start>a sandwich with a number of toppings and condiments<end>
+Predicted Caption :  close up photo taken some vegetables and pickle <end>

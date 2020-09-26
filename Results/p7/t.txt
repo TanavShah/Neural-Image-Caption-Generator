@@ -1,0 +1,2 @@
+Real Caption :  <start>a table with a tray with a plate of a halved sandwich a plate of beans and yellow rice with a fork and a paper bowl with meat on a stick and a lime wedge <end>
+Predicted Caption :  pile of hotdogs on lunch <end>

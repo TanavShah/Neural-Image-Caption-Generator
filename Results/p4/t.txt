@@ -1,0 +1,2 @@
+Real Caption :  <start>some colored <unk> and <unk> are next to a keyboard <end>
+Predicted Caption :  <unk> with cut up flower <unk> with a computer and a cup<end> <unk> <end>

@@ -1,0 +1,2 @@
+Real Caption :  <start>a train traveling over a bridge in a train yard <end>
+Predicted Caption :  decker <unk> train parked on top of a building and white <end>

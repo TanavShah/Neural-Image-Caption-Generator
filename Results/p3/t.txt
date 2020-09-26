@@ -1,0 +1,2 @@
+Real Caption :  <start>many people are at their laptops working together<end>
+Predicted Caption :  large crowd watches a large table with surfboards <end>

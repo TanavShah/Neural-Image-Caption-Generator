@@ -1,0 +1,2 @@
+Real Caption :  <start>people with umbrellas gather at a rainy park <end>
+Predicted Caption :  people standing under two people walk on top of a bench <end>

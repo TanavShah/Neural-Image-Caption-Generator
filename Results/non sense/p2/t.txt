@@ -1,0 +1,2 @@
+Real Caption :  <start>a large church with a tall brick clock tower in it's center <end>
+Predicted Caption :  white sheep are shown with a cows in a hillside <end>
